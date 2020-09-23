@@ -1,15 +1,15 @@
 
-Package: com.cokepokes.appstoreplusplus11
-Version: 0.9.5
+Package: azostore.net
+Version: 0.2-1.0.0
 Architecture: iphoneos-arm
-Maintainer: x7mii	
-Depends:  firmware (>= 11.0), mobilesubstrate 	
+Maintainer: AZOSTORE	
+Depends: mobilesubstrate 	
 Conflicts: com.unlimapps.uaupdatetools	
 Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb	
-Size: 1670732	
-MD5sum: e6e914ec0c7e9938241241a96d5c4821	
-SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674	
+Size: 266738	
+MD5sum: e984b9ddc3fc1a13bc64815e1260bfe3	
+SHA1: 22e36f9fd82d3388d7416bd620440d8e3ae65319	
 SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2	
-Section: Tweaks	Section: Tweaks
-Depiction: https://x7mii15.github.io/test	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
-Name: appstore++
+Section: Tweaks
+Depiction: https://azostore.net
+Name: AZOSTORE HACK2 KR
